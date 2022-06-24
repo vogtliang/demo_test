@@ -1,4 +1,8 @@
 12312
 13212hot -fix
 31321
-321321hot -fix
+321321hot -fixifor i
+for int i=1 to 1000{
+
+printline("hello world")
+}
